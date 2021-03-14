@@ -88,3 +88,24 @@ input:focus {
   border: 1px solid var(--color-light-grey);
   border-radius: 25px;
 }
+
+/* 메인 이미지 */
+.main_image {
+  height: 300px;
+  display: block;
+  background-image: url(img/book.jpg);
+  background-size: cover;
+  text-shadow: black 0.1em 0.1em 0.1em;
+  color: white;
+}
+
+.main_image h1 {
+  text-align: center;
+  color: inherit;
+}
+.main_image p {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
