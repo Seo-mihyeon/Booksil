@@ -1,2 +1,5 @@
 # Booksil_Booksite
-Created with CodeSandbox
+
+HTML / CSS / JAVASCRIPT
+
+21.03.14 ~
